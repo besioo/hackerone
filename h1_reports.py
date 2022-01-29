@@ -8,7 +8,7 @@ headers = {
   'Accept': 'application/json'
 }
 
-for id in range(1357200,1500000):
+for id in range(1,1500000):
   r = requests.get(
       f"https://api.hackerone.com/v1/hackers/reports/{id}",
       auth=('ahmed_basiony', 'uoSOwZoaJbOPyOVs9cLZ4f6ZOoF9/hUN64GJMDHfl74='),
