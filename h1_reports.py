@@ -42,3 +42,4 @@ def main(x=1,y=1500000,report="reports.csv"):
             cprint(f"[-] {str(_id)} Failed!", 'red')
             continue
 
+main()
