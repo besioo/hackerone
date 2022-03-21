@@ -1,5 +1,5 @@
 # hackerone
-I have collected all hackerone disclosed reports by brute forcin on their api https://api.hackerone.com/v1/hackers/reports/{id} from number 1 to 1500000.
+I have collected all hackerone disclosed reports by brute forcing on their api https://api.hackerone.com/v1/hackers/reports/{id} from number 1 to 1500000.
 
 May be there are more reports, that it's id is more than 1500000.
 
