@@ -11,7 +11,7 @@ headers = {
 for id in range(1,1500000):
   r = requests.get(
       f"https://api.hackerone.com/v1/hackers/reports/{id}",
-      auth=('ahmed_basiony', ''),
+      auth=('', ''),
       headers = headers,
       timeout=10
   )
